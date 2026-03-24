@@ -46,23 +46,23 @@ This project demonstrates object-oriented programming principles, validation log
 
 ## Application Screenshots
 
-### Main Inventory Screen
-![Main Screen](InventoryManagementSystem_Screenshots/Main_Screen.png)
+### Main Screen
+![Main Screen](docs/Screenshots/Main_Screen.png)
 
-### Add Part Form
-![Add Part](InventoryManagementSystem_Screenshots/Add_Part.png)
+### Add Part
+![Add Part](docs/Screenshots/Add_Part.png)
 
-### Modify Part Form
-![Modify Part](InventoryManagementSystem_Screenshots/Modify_Part.png)
+### Modify Part
+![Modify Part](docs/Screenshots/Modify_Part.png)
 
-### Add Product Form
-![Add Product](InventoryManagementSystem_Screenshots/Add_Product.png)
+### Add Product
+![Add Product](docs/Screenshots/Add_Product.png)
 
-### Modify Product Form
-![Modify Product](InventoryManagementSystem_Screenshots/Modify_Product.png)
+### Modify Product
+![Modify Product](docs/Screenshots/Modify_Product.png)
 
-### Product Deletion Validation
-![Delete Product Prevention](InventoryManagementSystem_Screenshots/Delete_Product_Part_Prevention.png)
+### Validation Example
+![Validation](docs/Screenshots/Delete_Product_Part_Prevention.png)
 
 ## Purpose
 
